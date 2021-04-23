@@ -1,9 +1,15 @@
 import React from 'react';
+import Footer from './components/footer';
+import NavBar from './components/navbar';
 
 function About() {
     return (
         <div>
-            <h1>ABOUT PAGE</h1>
+            <div>
+                <NavBar />
+                <h1>ABOUT</h1>
+                <Footer />
+            </div>
         </div>
     )
 }
