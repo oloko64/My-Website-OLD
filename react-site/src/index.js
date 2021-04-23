@@ -1,15 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Home from './components/home'
-import Header from './components/header'
-import Footer from './components/footer'
+import App from './App';
 
 ReactDOM.render(
-  <>
-  <Header></Header>
-  <Home></Home>
-  <Footer></Footer>
-  </>,
+  <App></App>,
 
   document.getElementById('root')
 );
+
+

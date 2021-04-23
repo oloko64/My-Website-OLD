@@ -3,14 +3,14 @@ function Header() {
         <div>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="http://localhost:3000">Home</a>
+                    <a className="navbar-brand" href="http://localhost:3000/">Home</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
                     <div className="collapse navbar-collapse" id="navbarNavDropdown">
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                                <a className="nav-link active" aria-current="page" href="http://localhost:3000/Sobre">Sobre</a>
+                                <a className="nav-link active" aria-current="page" href="http://localhost:3000/sobre">Sobre</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link" href="#">Portifolio</a>

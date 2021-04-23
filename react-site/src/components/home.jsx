@@ -1,6 +1,6 @@
 function home(){
   return(
-    <div  class="container-md">
+    <div  className="container-md">
       <h1>OLA MUNDO</h1>
     </div>
   )

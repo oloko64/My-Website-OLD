@@ -4,7 +4,8 @@ body {
     background: linear-gradient(0deg, #fff, 50%, #DEEEFE);
     font-family: 'Rubik', sans-serif;
     background: #455A64;
-    height: 100 !important
+    height: 100 !important;
+    background-color: #262626;
 }
 
 .container-fluid {
