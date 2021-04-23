@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
 
 body {
+    text-align: center;
     background: linear-gradient(0deg, #fff, 50%, #DEEEFE);
     font-family: 'Rubik', sans-serif;
     background: #455A64;
@@ -9,14 +10,8 @@ body {
 }
 
 .container-fluid {
-    overflow: hidden;
-    margin-top: 250px;
-    background: #262626;
     color: #627482 !important;
-    margin-bottom: 0;
-    padding-bottom: 0
 }
-
 small {
     font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
 }
@@ -33,10 +28,24 @@ h3 {
     font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important
 }
 
-.social {
-    font-size: 21px !important
+.endereco-link{
+    padding-top: 15px;
 }
 
-.rights {
-    font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important
+.nome{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.row{
+    display: inline-flex;
+    text-align: center;
+}
+.coluna{
+    display: inline-flex;
+}
+
+.perfilPic{
+    max-width: 50%;
+    min-width: 200px;
+    margin-bottom: 20px;
 }
