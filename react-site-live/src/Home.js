@@ -16,7 +16,7 @@ function Home() {
                         <div className="col">
                             <img src='https://i.imgur.com/u66vulJ.jpg' className=" perfilPic rounded img-fluid" alt="NO" />
                         </div>
-                        <div className="col">
+                        <div className="col texto">
                             <p>Programador e desenvolvedor Jr entrando na carreira.</p>
 
                             <p>Teve início na carreira de Ciencia da Computação, quando descobriu sua paixão: programar.

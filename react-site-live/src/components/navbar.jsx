@@ -13,7 +13,7 @@ function Header() {
                                 <a className="nav-link active" aria-current="page" href="http://localhost:3000/sobre">Sobre</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Portifolio</a>
+                                <a className="nav-link" href="http://localhost:3000/portifolio">Portifolio</a>
                             </li>
                             <li className="nav-item dropdown">
                                 <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">

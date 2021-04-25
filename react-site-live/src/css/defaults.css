@@ -33,8 +33,8 @@ h3 {
 }
 
 .nome{
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .row{
     display: inline-flex;
@@ -45,7 +45,22 @@ h3 {
 }
 
 .perfilPic{
-    max-width: 50%;
+    max-width: 30%;
     min-width: 200px;
     margin-bottom: 20px;
+}
+
+.texto{
+    color: gray;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+.blocos{
+    background-color: #161616;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;
 }
