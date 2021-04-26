@@ -7,7 +7,9 @@ function About() {
         <div>
             <div>
                 <NavBar />
-                <h1>ABOUT</h1>
+                <div>
+                    
+                </div>
                 <Footer />
             </div>
         </div>

@@ -19,8 +19,8 @@ function Footer() {
                                 <div className="col-xl-2 col-md-4 col-sm-4 col-12 endereco-link">
                                     <h6 className="text-muted  bold-text"><b>LINKS</b></h6>
                                     <ul className="list-unstyled">
-                                        <a id="links" style={{ color: 'white' , textDecoration: 'none'}} href="https://github.com/OLoKo64" >GitHub</a><br />
-                                        <a id="links" style={{ color: 'white' , textDecoration: 'none' }} href="https://github.com/OLoKo64" >Linkedin</a>
+                                        <a style={{ color: 'white' , textDecoration: 'underline'}} href="https://github.com/OLoKo64" >GitHub</a><br />
+                                        <a style={{ color: 'white' , textDecoration: 'underline' }} href="https://github.com/OLoKo64" >Linkedin</a>
                                     </ul>
                                 </div>
                                 <div className="col-xl-2 col-md-4 col-sm-4 col-12 endereco-link">

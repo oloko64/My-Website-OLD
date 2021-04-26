@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
     text-align: center;
     background: linear-gradient(0deg, #fff, 50%, #DEEEFE);
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Roboto', sans-serif;
     background: #455A64;
     height: 100 !important;
     background-color: #262626;
@@ -36,10 +36,6 @@ h3 {
     margin-top: 30px;
     margin-bottom: 30px;
 }
-.row{
-    display: inline-flex;
-    text-align: center;
-}
 .coluna{
     display: inline-flex;
 }
@@ -63,4 +59,11 @@ h3 {
     padding: 20px;
     border-radius: 5px;
     margin: 5px;
+}
+
+.top-block{
+    background-color: #161616;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 5px;
 }
