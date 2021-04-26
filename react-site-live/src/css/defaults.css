@@ -75,3 +75,12 @@ h3 {
 .coluna-home{
     min-width: 300px;
 }
+
+.rec-imgs{
+    max-width: 70px;
+    min-width: 50px;
+}
+
+.coluna-rec{
+    min-width: 300px;
+}

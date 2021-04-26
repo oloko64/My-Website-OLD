@@ -19,10 +19,10 @@ function Header() {
                                 <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Mais
           </a>
-                                <ul className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                    <li><a className="dropdown-item" href="#">Curiosidades</a></li>
-                                    <li><a className="dropdown-item" href="#">Links recomendados</a></li>
-                                    <li><a className="dropdown-item" href="#">Meus Certificados</a></li>
+                                <ul className="dropdown-menu centralizar" aria-labelledby="navbarDropdownMenuLink" style={{ backgroundColor: 'light-gray'}}>
+                                    <li><a className="dropdown-item" href="http://localhost:3000/curiosidades">Curiosidades</a></li>
+                                    <li><a className="dropdown-item" href="http://localhost:3000/links-recomendados">Links recomendados</a></li>
+                                    <li><a className="dropdown-item" href="http://localhost:3000/certificados">Meus Certificados</a></li>
                                 </ul>
                             </li>
                         </ul>
