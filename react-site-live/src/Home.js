@@ -13,10 +13,10 @@ function Home() {
 
                 <div className="container">
                     <div className="row align-items-start">
-                        <div className="col">
+                        <div className="col coluna-home">
                             <img src='https://i.imgur.com/u66vulJ.jpg' className=" perfilPic rounded img-fluid" alt="NO" />
                         </div>
-                        <div className="col texto">
+                        <div className="col texto coluna-home">
                             <p>Programador e desenvolvedor Jr entrando na carreira.</p>
 
                             <p>Teve início na carreira de Ciencia da Computação, quando descobriu sua paixão: programar.

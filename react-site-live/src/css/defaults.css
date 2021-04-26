@@ -47,7 +47,7 @@ h3 {
 }
 
 .texto{
-    color: gray;
+    color: #c5c5c5;
 }
 
 .centralizar{
@@ -66,4 +66,12 @@ h3 {
     padding: 20px;
     border-radius: 5px;
     margin-bottom: 5px;
+}
+
+.coluna-sobre{
+    min-width: 300px;
+}
+
+.coluna-home{
+    min-width: 300px;
 }
