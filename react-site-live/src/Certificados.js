@@ -10,50 +10,64 @@ function Certificados() {
                 <div className="nome">
                     <h1>Certificados</h1>
                 </div>
-                <table className="table table-dark table-hover tabela">
-                    <thead>
-                        <tr>
-                            <th scope="col">Certificado</th>
-                            <th scope="col">Nome</th>
-                            <th scope="col">Descrição</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td className="tabela-tx">
-                                <a href="https://i.imgur.com/4Ga65Jy.png" target="_blank">
-                                    <img className="cert-imgs" src="https://i.imgur.com/4Ga65Jy.png"></img>
-                                </a>
-                            </td>
-                            <td className="tabela-tx">Workshop DXC 2020</td>
-                            <td className="tabela-tx">Curso oferecido pela DXC onde a cada semana foi ensinado uma linguagem,
-                            Python, SQL, Java, DotNet, GoLang e Teste.
-                            </td>
-                        </tr>
-                        <tr>
-                            <td className="tabela-tx">
-                                <a href="https://i.imgur.com/YQhLkU3.jpg" target="_blank">
-                                    <img className="cert-imgs" src="https://i.imgur.com/YQhLkU3.jpg"></img>
-                                </a>
-                            </td>
-                            <td className="tabela-tx">Desenvolvimento Android Completo</td>
-                            <td className="tabela-tx">Curso de 107 horas onde foi ensinado sobre Android, com a criação de
-                            18 aplicativos.
-                            </td>
-                        </tr>
-                        <tr>
-                            <td className="tabela-tx">
-                                <a href="https://i.imgur.com/sI78wlQ.jpg" target="_blank">
-                                    <img className="cert-imgs" src="https://i.imgur.com/sI78wlQ.jpg"></img>
-                                </a>
-                            </td>
-                            <td className="tabela-tx">Python para Data Science e Machine Learnig</td>
-                            <td className="tabela-tx">Concluido juntamente com o de Android, este pequeno 
-                            curso demonstra um dospoderes do Python, Machine Learning.
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
+
+
+                <div className="row blocos-div">
+                    <div className="col blocos">
+                        <h4>Workshop DXC 2020</h4>
+                        <p>Curso oferecido pela DXC onde a cada semana foi ensinado uma linguagem,
+                        Python, SQL, Java, DotNet, GoLang e Teste.
+                        </p>
+                        <a href="https://i.imgur.com/4Ga65Jy.png" target="_blank">
+                            <img className="cert-imgs" src="https://i.imgur.com/4Ga65Jy.png"></img>
+                        </a>
+                    </div>
+                </div>
+                <div className="row blocos-div">
+                    <div className="col blocos">
+                        <h4>Desenvolvimento Android Completo</h4>
+                        <p>Curso de 107 horas onde foi ensinado sobre Android, com a criação de
+                        18 aplicativos.
+                        </p>
+                        <a href="https://i.imgur.com/YQhLkU3.jpg" target="_blank">
+                            <img className="cert-imgs" src="https://i.imgur.com/YQhLkU3.jpg"></img>
+                        </a>
+                    </div>
+                </div>
+                <div className="row blocos-div">
+                    <div className="col blocos">
+                        <h4>Python para Data Science e Machine Learnig</h4>
+                        <p>Concluido juntamente com o de Android, este pequeno
+                        curso demonstra um dospoderes do Python, Machine Learning.
+                        </p>
+                        <a href="https://i.imgur.com/sI78wlQ.jpg" target="_blank">
+                            <img className="cert-imgs" src="https://i.imgur.com/sI78wlQ.jpg"></img>
+                        </a>
+                    </div>
+                </div>
+                <div className="row blocos-div">
+                    <div className="col blocos">
+                        <h4>Web Moderno Completo com JavaScript</h4>
+                        <p>Outro grande curso sobre uma das linguagens mais utilizadas,
+                        JavaScript, muitas das coisas aprendidas neste curso foram utilizadas neste site.
+                        </p>
+                        <a href="https://i.imgur.com/vPxZaz7.jpg" target="_blank">
+                            <img className="cert-imgs" src="https://i.imgur.com/vPxZaz7.jpg"></img>
+                        </a>
+                    </div>
+
+                </div>
+                <div className="row blocos-div">
+                    <div className="col blocos">
+                        <h4>Programação em Python do Básico ao avançado</h4>
+                        <p>Potencialmente a minha linguagem favorita, neste curso me
+                        aprofundei nesta linguagem de alto nível que é muito utilizada em Machine Learning.
+                        </p>
+                        <a href="https://i.imgur.com/ogflKZs.jpg" target="_blank">
+                            <img className="cert-imgs" src="https://i.imgur.com/ogflKZs.jpg"></img>
+                        </a>
+                    </div>
+                </div>
             </div>
             <Footer />
         </div>
