@@ -21,7 +21,7 @@ function Header() {
           </a>
                                 <ul className="dropdown-menu centralizar" aria-labelledby="navbarDropdownMenuLink" style={{ backgroundColor: 'light-gray'}}>
                                     <li><a className="dropdown-item" href="http://localhost:3000/curiosidades">Curiosidades</a></li>
-                                    <li><a className="dropdown-item" href="http://localhost:3000/links-recomendados">Links recomendados</a></li>
+                                    <li><a className="dropdown-item" href="http://localhost:3000/links-recomendados">Livros recomendados</a></li>
                                     <li><a className="dropdown-item" href="http://localhost:3000/certificados">Meus Certificados</a></li>
                                 </ul>
                             </li>

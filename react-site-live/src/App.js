@@ -1,7 +1,7 @@
 import './css/defaults.css';
 import Home from './Home';
 import About from './About';
-import { Route, Link } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 import Portifolio from './Portifolio';
 import Curiosidades from './Curiosidades'
 import Certificados from './Certificados'

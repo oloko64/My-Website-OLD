@@ -84,3 +84,12 @@ h3 {
 .coluna-rec{
     min-width: 300px;
 }
+
+.tabela-tx{
+    vertical-align: middle;
+}
+
+.cert-imgs{
+    max-width: 100%;
+    max-block-size: 200px;
+}
