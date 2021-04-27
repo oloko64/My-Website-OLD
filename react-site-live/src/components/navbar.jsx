@@ -21,9 +21,9 @@ function Header() {
                                 <a className="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Mais</a>
                                 <ul className="dropdown-menu bg-dark centralizar" aria-labelledby="navbarDropdownMenuLink" style={{ backgroundColor: 'light-gray' }}>
-                                    <li>
+                                    {/* <li>
                                         <Link to="/curiosidades" className="dropdown-item text-secondary">Curiosidades</Link>
-                                    </li>
+                                    </li> PRECISA ACABAR*/}
                                     <li>
                                         <Link to="/livros-recomendados" className="dropdown-item text-secondary">Livros recomendados</Link>
                                     </li>
