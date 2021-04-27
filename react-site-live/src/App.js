@@ -11,12 +11,12 @@ import Recomendados from './Recomendados'
 function App() {
   return (
     <div className="App">
-      <Route exact path="/" component={Home}></Route>
-      <Route exact path="/sobre" component={About}></Route>
-      <Route exact path="/portifolio" component={Portifolio}></Route>
-      <Route exact path="/curiosidades" component={Curiosidades}></Route>
-      <Route exact path="/links-recomendados" component={Recomendados}></Route>
-      <Route exact path="/certificados" component={Certificados}></Route>
+      <Route path="/" exact component={Home}></Route>
+      <Route path="/sobre" component={About}></Route>
+      <Route path="/portifolio" component={Portifolio}></Route>
+      <Route path="/curiosidades" component={Curiosidades}></Route>
+      <Route path="/livros-recomendados" component={Recomendados}></Route>
+      <Route path="/certificados" component={Certificados}></Route>
     </div>
   );
 }

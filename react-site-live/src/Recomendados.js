@@ -41,7 +41,7 @@ function Recomendados() {
                             <td className="tabela-tx"><img className="rec-imgs" src="https://i.imgur.com/4oKXksn.png"></img></td>
                             <td className="tabela-tx">Pro Git</td>
                             <td className="tabela-tx">Um livro sobre uma das ferramentas mas utilizadas
-                            na programação, o Git</td>
+                            na programação, o Git.</td>
                         </tr>
                     </tbody>
                 </table>

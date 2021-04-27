@@ -16,9 +16,9 @@ function Footer() {
                                 <div className="col-xl-2 col-md-4 col-sm-4 col-12 endereco-link">
                                     <h6 className="text-muted  bold-text"><b>LINKS</b></h6>
                                     <ul className="list-unstyled">
-                                        <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" >GitHub</a><br />
-                                        <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" >Linkedin</a><br />
-                                        <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" >Curriculo</a>
+                                        <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" target="_blank">GitHub</a><br />
+                                        <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" target="_blank">Linkedin</a><br />
+                                        <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" target="_blank">Curriculo</a>
                                     </ul>
                                     <div>
                                         <h6 className="mt-2 text-muted bold-text"><b>Reinaldo Rozato Junior</b></h6><span><i className="fa fa-envelope" aria-hidden="true"></i></span>

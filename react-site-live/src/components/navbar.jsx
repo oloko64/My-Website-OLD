@@ -1,28 +1,35 @@
+import { Link } from 'react-router-dom';
+
 function Header() {
     return (
         <div>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="http://localhost:3000/">Home</a>
+                    <Link to="/" className="navbar-brand">Home</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
                     <div className="collapse navbar-collapse" id="navbarNavDropdown">
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                                <a className="nav-link active" aria-current="page" href="http://localhost:3000/sobre">Sobre</a>
+                                <Link to="/sobre" className="nav-link">Sobre</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="http://localhost:3000/portifolio">Portifolio</a>
+                                <Link to="/portifolio" className="nav-link">Portifolio</Link>
                             </li>
                             <li className="nav-item dropdown">
-                                <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Mais
-          </a>
-                                <ul className="dropdown-menu centralizar" aria-labelledby="navbarDropdownMenuLink" style={{ backgroundColor: 'light-gray'}}>
-                                    <li><a className="dropdown-item" href="http://localhost:3000/curiosidades">Curiosidades</a></li>
-                                    <li><a className="dropdown-item" href="http://localhost:3000/links-recomendados">Livros recomendados</a></li>
-                                    <li><a className="dropdown-item" href="http://localhost:3000/certificados">Meus Certificados</a></li>
+                                <a className="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Mais</a>
+                                <ul className="dropdown-menu bg-dark centralizar" aria-labelledby="navbarDropdownMenuLink" style={{ backgroundColor: 'light-gray' }}>
+                                    <li>
+                                        <Link to="/curiosidades" className="dropdown-item text-secondary">Curiosidades</Link>
+                                    </li>
+                                    <li>
+                                        <Link to="/livros-recomendados" className="dropdown-item text-secondary">Livros recomendados</Link>
+                                    </li>
+                                    <li>
+                                        <Link to="/certificados" className="dropdown-item text-secondary">Meus Certificados</Link>
+                                    </li>
                                 </ul>
                             </li>
                         </ul>

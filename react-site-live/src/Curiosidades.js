@@ -7,7 +7,7 @@ function Curiosidades() {
         <div>
             <NavBar />
             <div className="nome">
-                <h1>Curiosidades</h1>
+                <h1>Under Construction</h1>
             </div>
             <Footer />
         </div>

@@ -34,7 +34,7 @@ function About() {
                             mais importante para a vida de uma pessoa, conhecimento.
                         </p>
                         <p>
-                            Atualmente estou disponível para serviços Free e contratação.
+                            Atualmente estou disponível para serviços FreeLance e contratação.
                         </p>
                     </div>
 
