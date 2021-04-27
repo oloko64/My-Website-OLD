@@ -15,7 +15,7 @@ function Header() {
                                 <Link to="/sobre" className="nav-link">Sobre</Link>
                             </li>
                             <li className="nav-item">
-                                <Link to="/portifolio" className="nav-link">Portifolio</Link>
+                                <Link to="/portifolio" className="nav-link">Portifólio</Link>
                             </li>
                             <li className="nav-item dropdown">
                                 <a className="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
