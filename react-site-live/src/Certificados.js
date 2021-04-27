@@ -10,8 +10,6 @@ function Certificados() {
                 <div className="nome">
                     <h1>Certificados</h1>
                 </div>
-
-
                 <div className="row blocos-div">
                     <div className="col blocos">
                         <h4>Workshop DXC 2020</h4>

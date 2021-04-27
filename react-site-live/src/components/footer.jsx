@@ -17,7 +17,7 @@ function Footer() {
                                     <h6 className="text-muted  bold-text"><b>LINKS</b></h6>
                                     <ul className="list-unstyled">
                                         <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" target="_blank">GitHub</a><br />
-                                        <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" target="_blank">Linkedin</a><br />
+                                        <a style={{ color: 'white', textDecoration: 'underline' }} href="https://www.linkedin.com/in/reinaldo-rozato-junior-309ba319a/" target="_blank">Linkedin</a><br />
                                         <a style={{ color: 'white', textDecoration: 'underline' }} href="https://drive.google.com/drive/folders/1xYx6bEZlL4yViv2uGoxZbBbRGt5msM_-?usp=sharing" target="_blank">Curriculo</a>
                                     </ul>
                                     <div>
