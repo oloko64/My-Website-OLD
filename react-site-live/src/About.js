@@ -11,8 +11,8 @@ function About() {
                 <div className="row">
                     <div className="col coluna-sobre texto">
                         <h3>Pessoal</h3>
-                        <p>Gosto bastante de um café forte e sem açucar, projetos
-                        desafiadores que desafiem o conhecimento, assim me empurrando
+                        <p>Gosto bastante de um café forte e sem açucar, projetos 
+                        que desafiem o conhecimento, assim me empurrando
                         mais longe na estrada do conhecimento.
                         </p>
                         <p>
@@ -30,7 +30,7 @@ function About() {
                         e crescer como programador.
                         </p>
                         <p>
-                            Desejo uma empresa que respeite o seu trabalhador e ofereça a coisa
+                            Desejo uma empresa que respeite o seu funcionario e ofereça a coisa
                             mais importante para a vida de uma pessoa, conhecimento.
                         </p>
                         <p>

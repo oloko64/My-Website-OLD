@@ -25,8 +25,8 @@ function Home() {
 
                             <p>Projeto completo de TCC sobre a Máquina de Turing, utilizando php, CodeIgniter, Bootstrap.</p>
 
-                            <p>Gosta de desafios e continua sempre explorando ideias inovdoras, gosta de programar e de
-                                um café puro para acompanhar</p>
+                            <p>Gosta de desafios e continua sempre explorando ideias inovadoras, gosta de programar e de
+                                um café puro para acompanhar.</p>
                         </div>
                     </div>
                 </div>

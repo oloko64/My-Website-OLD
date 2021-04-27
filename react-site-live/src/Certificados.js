@@ -38,7 +38,7 @@ function Certificados() {
                     <div className="col blocos">
                         <h4>Python para Data Science e Machine Learnig</h4>
                         <p>Concluido juntamente com o de Android, este pequeno
-                        curso demonstra um dospoderes do Python, Machine Learning.
+                        curso demonstra um dos poderes do Python, Machine Learning.
                         </p>
                         <a href="https://i.imgur.com/sI78wlQ.jpg" target="_blank">
                             <img className="cert-imgs" src="https://i.imgur.com/sI78wlQ.jpg"></img>

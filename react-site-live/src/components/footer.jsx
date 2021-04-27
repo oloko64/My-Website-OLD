@@ -10,7 +10,7 @@ function Footer() {
                                     <h3 className="text-muted mb-md-0 bold-text">Sobre</h3>
                                     <p>Gosto muito de programação e estou a procura de aumentar
                                     meus conhecimentos em qualquer área relacionada a programação
-                                    e estou disposto a novas oportunidades de trabalho.
+                                    e disposto a novas oportunidades de trabalho.
                                     </p>
                                 </div>
                                 <div className="col-xl-2 col-md-4 col-sm-4 col-12 endereco-link">

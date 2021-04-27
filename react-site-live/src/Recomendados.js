@@ -25,14 +25,14 @@ function Recomendados() {
                             <td className="tabela-tx"><img className="rec-imgs" src="https://i.imgur.com/0yHzJFW.png"></img></td>
                             <td className="tabela-tx">Linux Basics For Hackers</td>
                             <td className="tabela-tx">Um livro bem conhecido na comunidade Linux, ele aborda muitos comandos
-                            basicos para o dia a dia no Linux.
+                            básicos para o dia a dia no Linux.
                             </td>
                         </tr>
                         <tr>
                             <th scope="row" className="tabela-tx">2</th>
                             <td className="tabela-tx"><img className="rec-imgs" src="https://i.imgur.com/dM00lnA.png"></img></td>
                             <td className="tabela-tx">Sistemas Operacionais Modernos - Tanenbaum</td>
-                            <td className="tabela-tx">Um clássico da Ciência da Computação, trata de varios sistemas, UNIX,
+                            <td className="tabela-tx">Um clássico da Ciência da Computação, trata de vários sistemas, UNIX,
                             Windows e Android.
                             </td>
                         </tr>
