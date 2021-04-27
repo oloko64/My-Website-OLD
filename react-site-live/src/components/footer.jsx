@@ -18,7 +18,7 @@ function Footer() {
                                     <ul className="list-unstyled">
                                         <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" target="_blank">GitHub</a><br />
                                         <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" target="_blank">Linkedin</a><br />
-                                        <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" target="_blank">Curriculo</a>
+                                        <a style={{ color: 'white', textDecoration: 'underline' }} href="https://drive.google.com/drive/folders/1xYx6bEZlL4yViv2uGoxZbBbRGt5msM_-?usp=sharing" target="_blank">Curriculo</a>
                                     </ul>
                                     <div>
                                         <h6 className="mt-2 text-muted bold-text"><b>Reinaldo Rozato Junior</b></h6><span><i className="fa fa-envelope" aria-hidden="true"></i></span>
