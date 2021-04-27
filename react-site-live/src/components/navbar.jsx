@@ -25,7 +25,7 @@ function Header() {
                                         <Link to="/curiosidades" className="dropdown-item text-secondary">Curiosidades</Link>
                                     </li> PRECISA ACABAR*/}
                                     <li>
-                                        <Link to="/livros-recomendados" className="dropdown-item text-secondary">Livros recomendados</Link>
+                                        <Link to="/livros-recomendados" className="dropdown-item text-secondary">Livros Recomendados</Link>
                                     </li>
                                     <li>
                                         <Link to="/certificados" className="dropdown-item text-secondary">Meus Certificados</Link>
