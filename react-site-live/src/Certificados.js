@@ -18,7 +18,7 @@ function Certificados() {
                             Python, SQL, Java, DotNet, GoLang e Teste.
                         </p>
                             <a href="https://i.imgur.com/4Ga65Jy.png" target="_blank">
-                                <img className="cert-imgs" src="https://i.imgur.com/4Ga65Jy.png"></img>
+                                <img className="cert-imgs rounded" src="https://i.imgur.com/4Ga65Jy.png"></img>
                             </a>
                         </div>
                     </div>
@@ -29,7 +29,7 @@ function Certificados() {
                             18 aplicativos.
                         </p>
                             <a href="https://i.imgur.com/YQhLkU3.jpg" target="_blank">
-                                <img className="cert-imgs" src="https://i.imgur.com/YQhLkU3.jpg"></img>
+                                <img className="cert-imgs rounded" src="https://i.imgur.com/YQhLkU3.jpg"></img>
                             </a>
                         </div>
                     </div>
@@ -40,7 +40,7 @@ function Certificados() {
                             curso demonstra um dos poderes do Python, Machine Learning.
                         </p>
                             <a href="https://i.imgur.com/sI78wlQ.jpg" target="_blank">
-                                <img className="cert-imgs" src="https://i.imgur.com/sI78wlQ.jpg"></img>
+                                <img className="cert-imgs rounded" src="https://i.imgur.com/sI78wlQ.jpg"></img>
                             </a>
                         </div>
                     </div>
@@ -51,7 +51,7 @@ function Certificados() {
                             JavaScript, muitas das coisas aprendidas neste curso foram utilizadas neste site.
                         </p>
                             <a href="https://i.imgur.com/vPxZaz7.jpg" target="_blank">
-                                <img className="cert-imgs" src="https://i.imgur.com/vPxZaz7.jpg"></img>
+                                <img className="cert-imgs rounded" src="https://i.imgur.com/vPxZaz7.jpg"></img>
                             </a>
                         </div>
 
@@ -63,7 +63,7 @@ function Certificados() {
                             aprofundei nesta linguagem de alto nível que é muito utilizada em Machine Learning.
                         </p>
                             <a href="https://i.imgur.com/ogflKZs.jpg" target="_blank">
-                                <img className="cert-imgs" src="https://i.imgur.com/ogflKZs.jpg"></img>
+                                <img className="cert-imgs rounded" src="https://i.imgur.com/ogflKZs.jpg"></img>
                             </a>
                         </div>
                     </div>
