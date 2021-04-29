@@ -20,7 +20,7 @@ function Home() {
                             <div className="col texto coluna-home blocos">
                                 <p>Programador e desenvolvedor Jr entrando na carreira.</p>
 
-                                <p>Teve início na carreira de Ciencia da Computação, quando descobriu sua paixão: programar.
+                                <p>Teve início na carreira de Ciência da Computação, quando descobriu sua paixão: programar.
                                 Seu primeiro emprego foi em uma escola onde aprendeu muito sobre o trabalho em equipe e
                             manejamento de banco de dados.</p>
 

@@ -35,7 +35,7 @@ function Certificados() {
                     </div>
                     <div className="row blocos-div">
                         <div className="col blocos">
-                            <h4>Python para Data Science e Machine Learnig</h4>
+                            <h4>Python para Data Science e Machine Learning</h4>
                             <p>Concluido juntamente com o de Android, este pequeno
                             curso demonstra um dos poderes do Python, Machine Learning.
                         </p>

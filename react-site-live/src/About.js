@@ -12,7 +12,7 @@ function About() {
                     <div className="row">
                         <div className="col coluna-sobre blocos texto">
                             <h3>Pessoal</h3>
-                            <p>Gosto bastante de um café forte e sem açucar, projetos
+                            <p>Gosto bastante de um café forte e sem açúcar, projetos
                             que desafiem o conhecimento, assim me empurrando
                             mais longe na estrada do conhecimento.
                         </p>
