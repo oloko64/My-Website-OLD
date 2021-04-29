@@ -5,7 +5,7 @@ function Footer() {
                 <footer>
                     <div className="row my-5 justify-content-center">
                         <div className="col-11">
-                            <div className="row ">
+                            <div className="row footer-row">
                                 <div className="col-xl-8 col-md-4 col-sm-4 col-12 my-auto mx-auto a">
                                     <h3 className="text-muted mb-md-0 bold-text">Sobre</h3>
                                     <p>Gosto muito de programação e estou a procura de aumentar

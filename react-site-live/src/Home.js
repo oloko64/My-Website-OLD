@@ -13,7 +13,7 @@ function Home() {
                     </div>
 
                     <div className="container">
-                        <div className="row">
+                        <div className="row row-home">
                             <div className="col coluna-home text-center">
                                 <img src='https://i.imgur.com/u66vulJ.jpg' className=" perfilPic rounded" alt="NO" />
                             </div>

@@ -41,10 +41,17 @@ h3 {
 }
 
 .perfilPic{
-    margin-top: 10%;
     max-width: 30%;
     min-width: 200px;
     margin-bottom: 20px;
+}
+
+.row-home{
+    align-items: center;
+}
+
+.footer-row{
+    align-items: center;
 }
 
 .texto{
@@ -61,6 +68,9 @@ h3 {
     border-radius: 5px;
     margin: 5px;
     margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
 .top-block{
@@ -110,7 +120,6 @@ h3 {
 .parallax-home {
     /* The image used */
     background-image: url("https://i.imgur.com/i8jdWIw.png");
-
   }
 
   .parallax-cert {
