@@ -18,7 +18,7 @@ function Portifolio() {
                             permitindo que esta tenha amplo uso em salas de aulas como ferramenta
                             educacional sobre a máquina em si, e seu funcionamento/operação.
                         </p>
-                            <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/ArturVRSampaio/TuringMachine" target="_blank">GitHub</a>
+                            <a style={{ color: 'white', textDecoration: 'underline' }} rel="noreferrer" href="https://github.com/ArturVRSampaio/TuringMachine" target="_blank">GitHub</a>
                         </div>
                         <div className="col blocos">
                             <h4>Meu WebSite</h4>
@@ -26,14 +26,23 @@ function Portifolio() {
                             e foi o primeiro WebSite desenvolvido por mim. Ele busca trazer uma
                             interface limpa e de fácil navegação.
                         </p>
-                            <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64/My-Website" target="_blank">GitHub</a>
+                            <a style={{ color: 'white', textDecoration: 'underline' }} rel="noreferrer" href="https://github.com/OLoKo64/My-Website" target="_blank">GitHub</a>
                         </div>
                         <div className="col blocos">
                             <h4>APS Socket Chat</h4>
                             <p>APS realizado em Junho de 2019 para a criação de um chat. Utilizando do framework
                             Quasar em Vue.js, foi realizado o frontend e backend do projeto.
                         </p>
-                            <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/index325/aps-socket" target="_blank">GitHub</a>
+                            <a style={{ color: 'white', textDecoration: 'underline' }} rel="noreferrer" href="https://github.com/index325/aps-socket" target="_blank">GitHub</a>
+                        </div>
+
+                        <div className="col-12 top-block">
+                            <h4>Forza Horizon 4 Tunning Calculator and others</h4>
+                            <p>Inicialmente o plano foi fazer uma calculadora para tunagem do Forza Horizon 4
+                                porém com planos de adição de outras formulas de outros games eu decidi separar
+                                os branches, futuramente quando estiverem todos prontos irei unificalos em um app.
+                        </p>
+                            <a style={{ color: 'white', textDecoration: 'underline' }} rel="noreferrer" href="https://github.com/OLoKo64/Forza-Horizon-4-Tunning-Calculator-Quasar" target="_blank">GitHub</a>
                         </div>
                     </div>
                 </div>
