@@ -37,12 +37,11 @@ function Portifolio() {
                         </div>
 
                         <div className="col-12 top-block">
-                            <h4>Forza Horizon 4 Tunning Calculator and others</h4>
-                            <p>Inicialmente o plano foi fazer uma calculadora para tunagem do Forza Horizon 4
-                                porém com planos de adição de outras formulas de outros games eu decidi separar
-                                os branches, futuramente quando estiverem todos prontos irei unificalos em um app.
+                            <h4>OLoKo64 Game Calculator</h4>
+                            <p>O projeto utiliza o framework Quasar e consiste na criação de um hub onde há calculadoras de vários jogos.<br/>
+                            O plano é adicionar mais calculadoras com o tempo e posteriormente ter um release para Android e iOS.
                         </p>
-                            <a style={{ color: 'white', textDecoration: 'underline' }} rel="noreferrer" href="https://github.com/OLoKo64/Forza-Horizon-4-Tunning-Calculator-Quasar" target="_blank">GitHub</a>
+                            <a style={{ color: 'white', textDecoration: 'underline' }} rel="noreferrer" href="https://github.com/OLoKo64/Multiple-Game-Calculator-Web-App" target="_blank">GitHub</a>
                         </div>
                     </div>
                 </div>

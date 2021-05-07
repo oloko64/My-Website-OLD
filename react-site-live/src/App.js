@@ -3,7 +3,6 @@ import Home from './Home';
 import About from './About';
 import { Route, Switch } from 'react-router-dom';
 import Portifolio from './Portifolio';
-import Curiosidades from './Curiosidades'
 import Certificados from './Certificados'
 import Recomendados from './Recomendados'
 
