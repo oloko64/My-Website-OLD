@@ -2,6 +2,7 @@ import React from 'react';
 import Footer from './components/footer';
 import NavBar from './components/navbar';
 import Fade from 'react-reveal/Fade';
+import perfilPic from './img/profile-pic.jpg'
 
 function Home() {
     return (
@@ -20,7 +21,7 @@ function Home() {
                         <div className="row row-home">
                             <Fade left>
                                 <div className="col coluna-home text-center">
-                                    <img src='https://i.imgur.com/u66vulJ.jpg' className=" perfilPic rounded" alt="NO" />
+                                    <img src={perfilPic} className=" perfilPic rounded" />
                                 </div>
                             </Fade>
                             <Fade right>

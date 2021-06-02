@@ -119,27 +119,27 @@ h3 {
 
 .parallax-home {
     /* The image used */
-    background-image: url("https://i.imgur.com/i8jdWIw.png");
+    background-image: url("../img/imgHome.jpg");
   }
 
   .parallax-cert {
     /* The image used */
-    background-image: url("https://i.imgur.com/XlDPGPJ.png");
+    background-image: url("../img/imgCert.jpg");
   }
 
   .parallax-sobre {
     /* The image used */
-    background-image: url("https://i.imgur.com/pzKawbZ.png");
+    background-image: url("../img/imgAbout.jpg");
   }
 
   .parallax-port {
     /* The image used */
-    background-image: url("https://i.imgur.com/zLFz8sG.png");
+    background-image: url("../img/imgPort.jpg");
   }
 
   .parallax-livros{
     /* The image used */
-      background-image: url("https://i.imgur.com/oZDs5uE.png");
+      background-image: url("../img/imgBooks.jpg");
   }
 
   .tabela{
