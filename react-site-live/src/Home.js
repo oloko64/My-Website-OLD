@@ -12,11 +12,11 @@ function Home() {
                     <NavBar />
                 </Fade>
                 <div className="container-md">
-                        <div className="nome">
-                    <Fade left cascade>
+                    <div className="nome">
+                        <Fade left cascade>
                             <h1>Reinaldo Rozato Junior</h1>
-                    </Fade>
-                        </div>
+                        </Fade>
+                    </div>
                     <div className="container">
                         <div className="row row-home">
                             <Fade left>
@@ -42,7 +42,9 @@ function Home() {
                     </div>
                 </div>
             </div>
-            <Footer />
+            <Fade bottom>
+                <Footer />
+            </Fade>
         </div>
     )
 }
