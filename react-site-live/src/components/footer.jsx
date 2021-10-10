@@ -18,11 +18,11 @@ function Footer() {
                                     <ul className="list-unstyled">
                                         <a style={{ color: 'white', textDecoration: 'underline' }} href="https://github.com/OLoKo64" target="_blank" rel="noreferrer">GitHub</a><br />
                                         <a style={{ color: 'white', textDecoration: 'underline' }} href="https://www.linkedin.com/in/reinaldo-rozato-junior-309ba319a/" target="_blank" rel="noreferrer">Linkedin</a><br />
-                                        <a style={{ color: 'white', textDecoration: 'underline' }} href="https://drive.google.com/drive/folders/1xYx6bEZlL4yViv2uGoxZbBbRGt5msM_-?usp=sharing" target="_blank" rel="noreferrer">Curriculo</a>
+                                        {/* <a style={{ color: 'white', textDecoration: 'underline' }} href="https://drive.google.com/drive/folders/1xYx6bEZlL4yViv2uGoxZbBbRGt5msM_-?usp=sharing" target="_blank" rel="noreferrer">Curriculo</a> */}
                                     </ul>
                                     <div>
                                         <h6 className="mt-2 text-muted bold-text"><b>Reinaldo Rozato Junior</b></h6><span><i className="fa fa-envelope" aria-hidden="true"></i></span>
-                                        <p>reinaldorozatoj@gmail.com</p>
+                                        <p>reinaldorozatoj.11cg1@aleeas.com</p>
                                     </div>
                                 </div>
                                 <div className="col-xl-2 col-md-4 col-sm-4 col-12 endereco-link">
